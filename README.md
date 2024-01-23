@@ -2,7 +2,7 @@
 
 ## Welcome to AI for the Environment Repository
 
-The AI for the Environment (BIOS0032) module is part of the MSc in Ecology and Data Science offered at UCL (UCL East).
+The AI for the Environment (BIOS0032) module is part of the MSc in Ecology and Data Science offered at UCL.
 
 In this repo you will find the Jupyter notebooks that are used throughout the module and any supporting code.
 
